@@ -4,7 +4,7 @@
 This project is a landing page template built with HTML, CSS, and vanilla JavaScript for practicing advanced DOM manipulation techniques.
 
 ## Project Link
- ### [Link Here](https://priyanshucoder007.github.io/Bankistify/)
+ ### [Link Here](https://priyanshucoder007.github.io/Bankistify-site/)
 
 ## Functionalities:
 
